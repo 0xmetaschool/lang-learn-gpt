@@ -9,7 +9,7 @@ const Footer = () => {
   useEffect(() => {
     const fetchStarCount = async () => {
       try {
-        const response = await fetch('https://api.github.com/repos/0xmetaschool/FlashCardGPT');
+        const response = await fetch('https://api.github.com/repos/0xmetaschool/lang-learn-gpt');
         const data = await response.json();
         setStarCount(data.stargazers_count); // Get the star count
       } catch (error) {
@@ -34,7 +34,7 @@ const Footer = () => {
             </div>
             <div className="flex items-center gap-4">
               <Link
-                href="https://github.com/0xmetaschool/FlashCardGPT/fork"
+                href="https://github.com/0xmetaschool/lang-learn-gpt/fork"
                 className="bg-black text-white px-4 py-2 rounded-md hover:bg-gray-800 transition-colors text-xs"
               >
                 Fork and Build Your Own
