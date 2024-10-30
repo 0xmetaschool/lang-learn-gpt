@@ -1,0 +1,33 @@
+{
+  "name": "ai-language-model",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/icons": "^2.2.4",
+    "@chakra-ui/react": "^2.9.1",
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@fontsource/inter": "^5.1.0",
+    "@fontsource/source-sans-pro": "^5.1.0",
+    "bcryptjs": "^2.4.3",
+    "framer-motion": "^11.11.9",
+    "jose": "^5.9.4",
+    "lucide-react": "^0.451.0",
+    "mongodb": "^6.9.0",
+    "next": "14.2.15",
+    "openai": "^4.67.3",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-icons": "^5.3.0"
+  },
+  "devDependencies": {
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  }
+}
