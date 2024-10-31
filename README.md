@@ -15,7 +15,6 @@ LangLearnGPT is an app that helps you learn new languages. It uses AI to create 
   - [API Reference](#api-reference)
   - [Use Cases & Future Enhancements](#use-cases-and-future-enhancements)
   - [Contributing](#contributing)
-  - [Code of Conduct](#code-of-conduct)
   - [License](#license)
   - [Acknowledgments](#acknowledgments)
   - [FAQ](#faq)
