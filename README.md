@@ -54,8 +54,8 @@ LangLearnGPT is an app that helps you learn new languages. It uses AI to create 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/Ash20pk/ai-language-learning-app.git
-   cd ai-language-learning-app
+   git clone https://github.com/0xmetaschool/ai-lang-learn-gpt.git
+   cd ai-lang-learn-gpt
    ```
 
 2. Install dependencies:
@@ -96,10 +96,18 @@ LangLearnGPT is an app that helps you learn new languages. It uses AI to create 
 
 ## Screenshots
 
-![Home Page](screenshots/home.png)
-![Select Language Page](screenshots/select_language.png)
-![Curriculum Page](screenshots/curriculum.png)
-![Lesson Page](screenshots/lesson.png) 
+<div style="display: flex; justify-content: space-between;">
+  <img src="screenshots/home.png" alt="Home Page" style="width: 49%; border: 2px solid black;" />
+  <img src="screenshots/select_language.png" alt="Select Language Page" style="width: 49%; border: 2px solid black;" />
+</div>
+
+<div style="margin-top: 10px;">
+  <img src="screenshots/curriculum.png" alt="Curriculum Page" style="width: 100%; border: 2px solid black;" />
+</div>
+
+<div style="margin-top: 10px;">
+  <img src="screenshots/lesson.png" alt="Lesson Page" style="width: 100%; border: 2px solid black;" />
+</div>
 
 ## How to use the application
 
