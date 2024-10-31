@@ -1,5 +1,5 @@
-# LangLearnGPT: GPT-Powered AI Language Learning Application
-LangLearnGPT is an app that helps you learn new languages. It uses AI to create a learning plan just for you, based on the language you want to learn. Each learning plan has 5 lessons and each lesson has 5 listen and repeat exercises. The app listens to you speak and tells you how you're doing right away. It doesn't matter if you're just starting or already know some words - LangLearnGPT is your go to language learning app.
+# LangLearnGPT
+LangLearnGPT is an app that helps you learn new languages.
 
 ## Table of Contents
   - [Live Demo](#live-demo)
@@ -96,13 +96,9 @@ LangLearnGPT is an app that helps you learn new languages. It uses AI to create 
   <img src="screenshots/home.png" alt="Home Page" style="width: 49%; border: 2px solid black;" />
   <img src="screenshots/select_language.png" alt="Select Language Page" style="width: 49%; border: 2px solid black;" />
 </div>
-
-<div style="margin-top: 10px;">
-  <img src="screenshots/curriculum.png" alt="Curriculum Page" style="width: 100%; border: 2px solid black;" />
-</div>
-
-<div style="margin-top: 10px;">
-  <img src="screenshots/lesson.png" alt="Lesson Page" style="width: 100%; border: 2px solid black;" />
+<div style="display: flex; justify-content: space-between;">
+  <img src="screenshots/curriculum.png" alt="Curriculum Page" style="width: 49%; border: 2px solid black;" />
+  <img src="screenshots/lesson.png" alt="Lesson Page" style="width: 49%; border: 2px solid black;" />
 </div>
 
 ## How to use the application
