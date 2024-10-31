@@ -39,7 +39,7 @@ LangLearnGPT is an app that helps you learn new languages. It uses AI to create 
 - OpenAI GPT-4 Model for AI-Powered Features
 - MongoDB for Database Management
 - OpenAI API for AI-Powered Features
-- JWT for Authentication
+- Jose for Authentication
 
 ## Getting Started
 
@@ -71,7 +71,7 @@ LangLearnGPT is an app that helps you learn new languages. It uses AI to create 
    - axios: Promise-based HTTP client for making API requests
    - openai: OpenAI API client for Node.js
    - mongodb: MongoDB driver for Node.js
-   - jsonwebtoken: Implementation of JSON Web Tokens
+   - jose: Modern JavaScript implementation of JSON Web Tokens
    - bcryptjs: Library for hashing passwords
    - react-icons: Icon library for React
 
