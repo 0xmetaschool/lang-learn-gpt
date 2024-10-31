@@ -36,7 +36,6 @@ LangLearnGPT is an app that helps you learn new languages. It uses AI to create 
 - Chakra UI for Responsive Design
 - OpenAI GPT-4 Model for AI-Powered Features
 - MongoDB for Database Management
-- OpenAI API for AI-Powered Features
 - Jose for Authentication
 
 ## Getting Started
@@ -52,7 +51,7 @@ LangLearnGPT is an app that helps you learn new languages. It uses AI to create 
 1. Clone the repository:
    ```
    git clone https://github.com/0xmetaschool/lang-learn-gpt
-   cd ai-lang-learn-gpt
+   cd lang-learn-gpt
    ```
 
 2. Install dependencies:
