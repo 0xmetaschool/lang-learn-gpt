@@ -175,11 +175,6 @@ We love contributions! Here's how you can help make the project even better:
 - Push to the branch (git push origin feature/AmazingFeature)
 - Open a Pull Request
 
-
-## Code of Conduct
-
-We are committed to fostering a welcoming community. View our [Code of Conduct](CODE_OF_CONDUCT.md) here.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
