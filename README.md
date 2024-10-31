@@ -54,7 +54,7 @@ LangLearnGPT is an app that helps you learn new languages. It uses AI to create 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/0xmetaschool/ai-lang-learn-gpt.git
+   git clone https://github.com/0xmetaschool/lang-learn-gpt
    cd ai-lang-learn-gpt
    ```
 
