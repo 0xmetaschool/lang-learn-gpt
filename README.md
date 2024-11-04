@@ -118,23 +118,6 @@ LangLearnGPT is an app that helps you learn new languages.
 
 Remember to practice regularly and make use of all available tools to maximize your language learning experience with LangLearnGPT.
 
-## API Reference
-
-| Endpoint | Method | Description |
-|----------|--------|-------------|
-| `/api/auth/signup` | POST | Creates a new user account |
-| `/api/auth/login` | POST | Logs in an existing user |
-| `/api/save-progress` | POST | Saves user progress for a specific lesson |
-| `/api/user-progress` | GET | Retrieves the user's overall learning progress |
-| `/api/generate-audio` | POST | Generates audio for a given text in a specified language |
-| `/api/user-languages` | GET | Retrieves the list of languages a user is learning |
-| `/api/user-languages` | POST | Adds a new language for the user to learn |
-| `/api/generate-lesson` | POST | Generates and saves a new lesson for a user |
-| `/api/transcribe-audio` | POST | Transcribes audio and provides pronunciation feedback |
-| `/api/generate-curriculum` | POST | Generates a language learning curriculum for a user |
-
-Note: All endpoints except `/api/auth/signup` and `/api/auth/login` require authentication via a Bearer token in the Authorization header.
-
 ## Use Cases & Future Enhancements
 
 Here's what you can do with LangLearnGPT and what's coming next:
