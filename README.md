@@ -135,28 +135,6 @@ Remember to practice regularly and make use of all available tools to maximize y
 
 Note: All endpoints except `/api/auth/signup` and `/api/auth/login` require authentication via a Bearer token in the Authorization header.
 
-## Use Cases & Future Enhancements
-
-Here's what you can do with LangLearnGPT and what's coming next:
-
-**Current Use Cases:**
-- Practice pronunciation with instant AI feedback
-- Learn new languages at your own pace with personalized lessons
-- Prepare for international travel with essential phrases
-- Track your progress with detailed performance metrics
-- Practice speaking in a judgment-free environment
-
-**Coming Soon:**
-- Chat with AI language partners for real-time conversation practice
-- Join virtual language exchange communities
-- Earn points and badges as you learn
-- Access offline mode for learning anywhere
-- Get personalized study schedules and reminders
-- Practice with dialect and accent variations
-- Share progress with friends and compete on leaderboards
-
-Want to contribute? Check out our contributing guidelines below!
-
 ## Contributing
 
 We love contributions! Here's how you can help make the project even better:
