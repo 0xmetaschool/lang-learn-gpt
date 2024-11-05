@@ -1,4 +1,4 @@
-# LearnLanguageGPT
+# LangLearnGPT
 An AI app that helps you learn new languages.
 
 ## Table of Contents
@@ -116,11 +116,11 @@ An AI app that helps you learn new languages.
    - Use the "Speak" button to record your response
    - Receive instant feedback on your pronunciation and grammar
 
-Remember to practice regularly and make use of all available tools to maximize your language learning experience with LearnLanguageGPT.
+Remember to practice regularly and make use of all available tools to maximize your language learning experience with LangLearnGPT.
 
 ## Use Cases & Future Enhancements
 
-Here's what you can do with LearnLanguageGPT and what's coming next:
+Here's what you can do with LangLearnGPT and what's coming next:
 
 **Current Use Cases:**
 - Practice pronunciation with instant AI feedback
@@ -161,11 +161,11 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 ## FAQ
 
-**Q: Do I need an OpenAI API key to use LearnLanguageGPT?**
+**Q: Do I need an OpenAI API key to use LangLearnGPT?**
 A: Yes, you will need an OpenAI API key to enable AI-powered features like personalized lesson generation and speech feedback. You can sign up for an API key on the OpenAI website.
 
-**Q: What languages does LearnLanguageGPT support?**
-A: Currently, LearnLanguageGPT supports all the languages that OpenAI's GPT-4 model supports.
+**Q: What languages does LangLearnGPT support?**
+A: Currently, LangLearnGPT supports all the languages that OpenAI's GPT-4 model supports.
 
 **Q: Is my data secure?**
 A: Yes, we take data security and privacy very seriously. All user data is encrypted and stored securely, and we never share your personal information with third parties.
