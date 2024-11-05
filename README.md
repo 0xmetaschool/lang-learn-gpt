@@ -19,7 +19,7 @@ An AI app that helps you learn new languages.
 
 ## Live Demo
 
-[https://LangLearnGPT.vercel.app](https://LangLearnGPT.vercel.app)
+[https://lang-learn-gpt.vercel.app/](https://lang-learn-gpt.vercel.app/)
 
 ## Features
 
