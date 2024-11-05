@@ -1,5 +1,6 @@
 # LangLearnGPT
-LangLearnGPT is an app that helps you learn new languages.
+An AI app that helps you learn new languages.
+
 
 ## Table of Contents
   - [Live Demo](#live-demo)
@@ -152,7 +153,7 @@ We love contributions! Here's how you can help make the project even better:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/0xmetaschool/lang-learn-gpt/blob/main/LICENSE) file for details.
 
 ## Acknowledgments
 
@@ -162,7 +163,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## FAQ
 
 **Q: Do I need an OpenAI API key to use LangLearnGPT?**
-A: Yes, you will need an OpenAI API key to enable the AI-powered features like personalized lesson generation and speech feedback. You can sign up for an API key on the OpenAI website.
+A: Yes, you will need an OpenAI API key to enable AI-powered features like personalized lesson generation and speech feedback. You can sign up for an API key on the OpenAI website.
 
 **Q: What languages does LangLearnGPT support?**
 A: Currently, LangLearnGPT supports all the languages that OpenAI's GPT-4 model supports.
